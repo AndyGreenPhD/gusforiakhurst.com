@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image'
-import profilePic from 'images.gus.jpeg'
+import profilePic from 'images/gus.jpeg'
 
 export default function Header({ name }) {
   return (
